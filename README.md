@@ -1,4 +1,4 @@
-Lab 5. Linked Lists and Interfaces
+Lab 4. Linked Lists and Interfaces
 
 Due Oct 27 at the start of class.
 
